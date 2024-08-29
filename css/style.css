@@ -297,6 +297,7 @@ body.light hr.separator {
 }
 
 @media (max-width: 576px) {
+
   body.light .title-section {
     background: #eee;
     border-bottom: 1px solid #ddd;
@@ -1305,6 +1306,7 @@ body.light hr.separator {
 /* Mobile  Navigation */
 
 @media (max-width: 991px) {
+
   .btn {
     padding: 0 28px;
   }
@@ -1562,6 +1564,7 @@ body.light hr.separator {
 }
 
 @media (max-width: 767px) {
+
   .home .home-details p {
     font-size: 14px;
     line-height: 28px;
@@ -1569,9 +1572,7 @@ body.light hr.separator {
 }
 
 @media (max-width: 576px) {
-  .portfolio-text {
-    margin-top : 100px;
-  }
+
   .btn {
     font-size: 14px;
   }
