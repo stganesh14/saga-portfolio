@@ -1569,6 +1569,9 @@ body.light hr.separator {
 }
 
 @media (max-width: 576px) {
+  .portfolio-text {
+    margin-top : 100px;
+  }
   .btn {
     font-size: 14px;
   }
